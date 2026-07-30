@@ -13,9 +13,9 @@ This repository serves as my organized workspace for all course requirements, in
 
 ## 👤 Student Information
 
-- Name: EDWIN JR. P. BELMORO
-- Course/Section: BSIT 3
-- Instructor: (Ilagay ang pangalan ng instructor)
+- Name: EDWIN  P. BELMORO JR.
+- Course/Section: BSIT 4-H
+- Instructor: JENKIELYN CORTEZ TORRES
 - School Year: 2026-2027
 
 ## 📂 Repository Structure
